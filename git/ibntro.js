@@ -1,4 +1,4 @@
-console.log(:Vikas);
+console.log(Vikas);
 localStorage
 typeof
 fetch
